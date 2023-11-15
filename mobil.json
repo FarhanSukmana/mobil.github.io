@@ -2,8 +2,8 @@
     "result": [
     {
       "name": "Toyota Supra MK4",
-      "Mesin": "3.0 liter inline-6 turbocharged (276-320 HP)",
-      "Transmisi": "Manual 6-percepatan atau otomatis 4-percepatan",
+      "Mesin": "3.0 liter inline-6 turbocharged",
+      "Transmisi": "Manual 6-percepatan",
       "Performa": "0-60 mph sekitar 4.6 detik",
       "Dimensi": "P: 4,5m, L: 1,8m, T: 1,2m",
       "Berat": "1.590kg",
@@ -12,8 +12,8 @@
     },
     {
       "name": "Mitsubishi Evo 9",
-      "Mesin": "2.0 liter turbocharged inline-4 (280-291 HP)",
-      "Transmisi": "Manual 5-percepatan atau otomatis 6-percepatan",
+      "Mesin": "2.0 liter turbocharged inline-4",
+      "Transmisi": "Manual 5-percepatan",
       "Performa": "0-60 mph sekitar 4.3 detik",
       "Dimensi": "P: 4,7m, L: 1,7m, T: 1,4m",
       "Berat": "1.490kg",
@@ -22,8 +22,8 @@
     },
     {
       "name": "Mazda RX-7 FD",
-      "Mesin": "1.3 liter rotary twin-turbocharged (252-276 HP)",
-      "Transmisi": "Manual 5-percepatan atau otomatis 4-percepatan",
+      "Mesin": "1.3 liter rotary twin-turbocharged",
+      "Transmisi": "Manual 5-percepatan",
       "Performa": "0-60 mph sekitar 4.8 detik",
       "Dimensi": "P: 4,2m, L: 1,7m, T: 1,2m",
       "Berat": "1.350kg",
@@ -32,8 +32,8 @@
     },
     {
       "name": "Toyota AE86 Trueno",
-      "Mesin": "1.6 liter inline-4 karburator (112 HP)",
-      "Transmisi": "Manual 5-percepatan atau otomatis 3-percepatan",
+      "Mesin": "1.6 liter inline-4 karburator",
+      "Transmisi": "Manual 5-percepatan",
       "Performa": "0-60 mph sekitar 9 detik",
       "Dimensi": "P: 4.1m, L: 1.6m, T: 1.3m",
       "Berat": "1.100kg",
@@ -42,8 +42,8 @@
     },
     {
       "name": "Honda NSX",
-      "Mesin": "3.0 liter V6 VTEC DOHC (270-290 HP)",
-      "Transmisi": "Manual 6-percepatan atau otomatis 5-percepatan",
+      "Mesin": "3.0 liter V6 VTEC DOHC",
+      "Transmisi": "Manual 6-percepatan",
       "Performa": "0-60 mph sekitar 4 detik",
       "Dimensi": "P: 4.4m, L: 1.8m, T: 1.2m",
       "Berat": "1.450kg",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Nissan GT-R R34",
-      "Mesin": "2.6 liter inline-6 twin-turbocharged (280-330 HP)",
+      "Mesin": "2.6 liter inline-6 twin-turbocharged",
       "Transmisi": "Manual 6-percepatan",
       "Performa": "0-60 mph sekitar 4.6 detik",
       "Dimensi": "P: 4.6m, L: 1.7m, T: 1.3m",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Honda S2000",
-      "Mesin": "2.0 liter inline-4 VTEC (240-250 HP)",
+      "Mesin": "2.0 liter inline-4 VTEC",
       "Transmisi": "Manual 6-percepatan",
       "Performa": "0-60 mph sekitar 5.5 detik",
       "Dimensi": "P: 4m, L: 1.7m, T: 1.3m",
@@ -72,8 +72,8 @@
     },
     {
       "name": "Subaru WRX STI",
-      "Mesin": "2.0 liter flat-4 turbocharged (265-300 HP)",
-      "Transmisi": "Manual 5-percepatan atau 6-percepatan",
+      "Mesin": "2.0 liter flat-4 turbocharged",
+      "Transmisi": "Manual 5-percepatan",
       "Performa": "0-60 mph sekitar 5.2 detik",
       "Dimensi": "P: 4.4m, L: 1.7m, T: 1.4m",
       "Berat": "1.450kg",
@@ -82,8 +82,8 @@
     },
     {
       "name": "Mitsubishi Eclipse",
-      "Mesin": "2.0 liter inline-4 turbocharged (190-195 HP)",
-      "Transmisi": "Manual 5-percepatan atau otomatis 4-percepatan",
+      "Mesin": "2.0 liter inline-4 turbocharged",
+      "Transmisi": "Manual 5-percepatan",
       "Performa": "0-60 mph sekitar 6 detik",
       "Dimensi": "P: 4.4m, L: 1.7m, T: 1.3m",
       "Berat": "1.400kg",
@@ -92,8 +92,8 @@
     },
     {
       "name": "Nissan Silvia S15",
-      "Mesin": "2.0 liter inline-4 turbocharged (150-220 HP)",
-      "Transmisi": "Manual 5-percepatan atau 4-percepatan otomatis",
+      "Mesin": "2.0 liter inline-4 turbocharged",
+      "Transmisi": "Manual 5-percepatan",
       "Performa": "0-60 mph sekitar 6 detik",
       "Dimensi": "P: 4.3m, L: 1.7m, T: 1.3m",
       "Berat": "1.300kg",
