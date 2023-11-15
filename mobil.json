@@ -1,0 +1,104 @@
+{
+    "result": [
+    {
+      "name": "Toyota Supra MK4",
+      "Mesin": "3.0 liter inline-6 turbocharged (276-320 HP)",
+      "Transmisi": "Manual 6-percepatan atau otomatis 4-percepatan",
+      "Performa": "0-60 mph sekitar 4.6 detik",
+      "Dimensi": "P: 4,5m, L: 1,8m, T: 1,2m",
+      "Berat": "1.590kg",
+      "Rem": "Rem cakram",
+      "Foto": "https://images.unsplash.com/photo-1680557120451-4e3321e9f581?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Mitsubishi Evo 9",
+      "Mesin": "2.0 liter turbocharged inline-4 (280-291 HP)",
+      "Transmisi": "Manual 5-percepatan atau otomatis 6-percepatan",
+      "Performa": "0-60 mph sekitar 4.3 detik",
+      "Dimensi": "P: 4,7m, L: 1,7m, T: 1,4m",
+      "Berat": "1.490kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1627008450028-f88d6174ca67?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Mazda RX-7 FD",
+      "Mesin": "1.3 liter rotary twin-turbocharged (252-276 HP)",
+      "Transmisi": "Manual 5-percepatan atau otomatis 4-percepatan",
+      "Performa": "0-60 mph sekitar 4.8 detik",
+      "Dimensi": "P: 4,2m, L: 1,7m, T: 1,2m",
+      "Berat": "1.350kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1658063289436-10d12a31fd0e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fG1hemRhJTIwcng3fGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Toyota AE86 Trueno",
+      "Mesin": "1.6 liter inline-4 karburator (112 HP)",
+      "Transmisi": "Manual 5-percepatan atau otomatis 3-percepatan",
+      "Performa": "0-60 mph sekitar 9 detik",
+      "Dimensi": "P: 4.1m, L: 1.6m, T: 1.3m",
+      "Berat": "1.100kg",
+      "Rem": "Rem cakram",
+      "Foto": "https://images.unsplash.com/photo-1624337851647-9eddc80d19f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWU4NnxlbnwwfDF8MHx8fDA%3D"
+    },
+    {
+      "name": "Honda NSX",
+      "Mesin": "3.0 liter V6 VTEC DOHC (270-290 HP)",
+      "Transmisi": "Manual 6-percepatan atau otomatis 5-percepatan",
+      "Performa": "0-60 mph sekitar 4 detik",
+      "Dimensi": "P: 4.4m, L: 1.8m, T: 1.2m",
+      "Berat": "1.450kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1692543507036-61ad7e06bd64?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvbmRhJTIwbnN4fGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Nissan GT-R R34",
+      "Mesin": "2.6 liter inline-6 twin-turbocharged (280-330 HP)",
+      "Transmisi": "Manual 6-percepatan",
+      "Performa": "0-60 mph sekitar 4.6 detik",
+      "Dimensi": "P: 4.6m, L: 1.7m, T: 1.3m",
+      "Berat": "1.600kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1565064012199-c537fe6fb4b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cjM0fGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Honda S2000",
+      "Mesin": "2.0 liter inline-4 VTEC (240-250 HP)",
+      "Transmisi": "Manual 6-percepatan",
+      "Performa": "0-60 mph sekitar 5.5 detik",
+      "Dimensi": "P: 4m, L: 1.7m, T: 1.3m",
+      "Berat": "1.300kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1696648452919-8ff7ba2c338c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHMyMDAwfGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Subaru WRX STI",
+      "Mesin": "2.0 liter flat-4 turbocharged (265-300 HP)",
+      "Transmisi": "Manual 5-percepatan atau 6-percepatan",
+      "Performa": "0-60 mph sekitar 5.2 detik",
+      "Dimensi": "P: 4.4m, L: 1.7m, T: 1.4m",
+      "Berat": "1.450kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1699148956517-2998b1dc008c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHx3cnglMjBzdGl8ZW58MHwxfDB8fHww"
+    },
+    {
+      "name": "Mitsubishi Eclipse",
+      "Mesin": "2.0 liter inline-4 turbocharged (190-195 HP)",
+      "Transmisi": "Manual 5-percepatan atau otomatis 4-percepatan",
+      "Performa": "0-60 mph sekitar 6 detik",
+      "Dimensi": "P: 4.4m, L: 1.7m, T: 1.3m",
+      "Berat": "1.400kg",
+      "Rem": "Rem cakram dengan ABS",
+      "Foto": "https://images.unsplash.com/photo-1666511678272-d66f783d40f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWl0c3ViaXNoaSUyMGVjbGlwc2V8ZW58MHwxfDB8fHww"
+    },
+    {
+      "name": "Nissan Silvia S15",
+      "Mesin": "2.0 liter inline-4 turbocharged (150-220 HP)",
+      "Transmisi": "Manual 5-percepatan atau 4-percepatan otomatis",
+      "Performa": "0-60 mph sekitar 6 detik",
+      "Dimensi": "P: 4.3m, L: 1.7m, T: 1.3m",
+      "Berat": "1.300kg",
+      "Rem": "Rem cakram",
+      "Foto": "https://images.unsplash.com/photo-1602722503495-0d6dfda9b623?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+   ]
+  }
